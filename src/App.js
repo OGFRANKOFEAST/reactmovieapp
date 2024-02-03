@@ -1,12 +1,12 @@
 import { useState,useEffect   } from 'react';
  
-// 5522ef24
+// f6b15a8b
 
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 import "./App.css";
 
-const API_URL = "http://www.omdbapi.com?apikey=5522ef24";
+ const API_URL ="https://www.omdbapi.com/?i=tt3896198&apikey=f6b15a8b";
  
 
 const App = () => {
